@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDB.Succinctly.DatabaseOperations", "MongoDB.Succinctly.DatabaseOperations\MongoDB.Succinctly.DatabaseOperations.csproj", "{64D1DD7A-5AFD-4723-A5F8-49AA52D02142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDB.Succinctly.MovieManager", "MongoDB.Succinctly.MovieManager\MongoDB.Succinctly.MovieManager.csproj", "{83B27EAA-0BB9-44F4-B05E-8F978698ABDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDB.Succinctly.FileManager", "MongoDB.Succinctly.FileManager\MongoDB.Succinctly.FileManager.csproj", "{60622F03-0754-4C1B-A8F4-F0557443D54F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64D1DD7A-5AFD-4723-A5F8-49AA52D02142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D1DD7A-5AFD-4723-A5F8-49AA52D02142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D1DD7A-5AFD-4723-A5F8-49AA52D02142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D1DD7A-5AFD-4723-A5F8-49AA52D02142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B27EAA-0BB9-44F4-B05E-8F978698ABDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B27EAA-0BB9-44F4-B05E-8F978698ABDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B27EAA-0BB9-44F4-B05E-8F978698ABDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B27EAA-0BB9-44F4-B05E-8F978698ABDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60622F03-0754-4C1B-A8F4-F0557443D54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60622F03-0754-4C1B-A8F4-F0557443D54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60622F03-0754-4C1B-A8F4-F0557443D54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60622F03-0754-4C1B-A8F4-F0557443D54F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

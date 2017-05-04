@@ -1,0 +1,16 @@
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.FileManager\bin\Debug\sample.pdf
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.FileManager\bin\Debug\MongoDB.Succinctly.FileManager.exe.config
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.FileManager\bin\Debug\MongoDB.Succinctly.FileManager.exe
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.FileManager\bin\Debug\MongoDB.Succinctly.FileManager.pdb
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.FileManager\bin\Debug\MongoDB.Bson.dll
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.FileManager\bin\Debug\MongoDB.Driver.Core.dll
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.FileManager\bin\Debug\MongoDB.Driver.dll
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.FileManager\bin\Debug\MongoDB.Driver.GridFS.dll
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.FileManager\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.FileManager\bin\Debug\MongoDB.Bson.xml
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.FileManager\bin\Debug\MongoDB.Driver.xml
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.FileManager\bin\Debug\MongoDB.Driver.Core.xml
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.FileManager\bin\Debug\MongoDB.Driver.GridFS.xml
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.FileManager\obj\Debug\MongoDB.Succinctly.FileManager.csprojResolveAssemblyReference.cache
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.FileManager\obj\Debug\MongoDB.Succinctly.FileManager.exe
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.FileManager\obj\Debug\MongoDB.Succinctly.FileManager.pdb

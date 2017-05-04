@@ -1,0 +1,15 @@
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.DatabaseOperations\bin\Debug\MongoDB.Succinctly.DatabaseOperations.exe.config
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.DatabaseOperations\bin\Debug\MongoDB.Succinctly.DatabaseOperations.exe
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.DatabaseOperations\bin\Debug\MongoDB.Succinctly.DatabaseOperations.pdb
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.DatabaseOperations\bin\Debug\MongoDB.Bson.dll
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.DatabaseOperations\bin\Debug\MongoDB.Driver.Core.dll
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.DatabaseOperations\bin\Debug\MongoDB.Driver.dll
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.DatabaseOperations\bin\Debug\MongoDB.Driver.GridFS.dll
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.DatabaseOperations\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.DatabaseOperations\bin\Debug\MongoDB.Bson.xml
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.DatabaseOperations\bin\Debug\MongoDB.Driver.xml
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.DatabaseOperations\bin\Debug\MongoDB.Driver.Core.xml
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.DatabaseOperations\bin\Debug\MongoDB.Driver.GridFS.xml
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.DatabaseOperations\obj\Debug\MongoDB.Succinctly.DatabaseOperations.csprojResolveAssemblyReference.cache
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.DatabaseOperations\obj\Debug\MongoDB.Succinctly.DatabaseOperations.exe
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.DatabaseOperations\obj\Debug\MongoDB.Succinctly.DatabaseOperations.pdb

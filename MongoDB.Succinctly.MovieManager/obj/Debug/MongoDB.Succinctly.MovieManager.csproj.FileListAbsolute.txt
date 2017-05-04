@@ -1,0 +1,15 @@
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.MovieManager\bin\Debug\MongoDB.Succinctly.MovieManager.exe.config
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.MovieManager\bin\Debug\MongoDB.Succinctly.MovieManager.exe
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.MovieManager\bin\Debug\MongoDB.Succinctly.MovieManager.pdb
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.MovieManager\bin\Debug\MongoDB.Bson.dll
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.MovieManager\bin\Debug\MongoDB.Driver.Core.dll
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.MovieManager\bin\Debug\MongoDB.Driver.dll
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.MovieManager\bin\Debug\MongoDB.Driver.GridFS.dll
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.MovieManager\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.MovieManager\bin\Debug\MongoDB.Bson.xml
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.MovieManager\bin\Debug\MongoDB.Driver.xml
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.MovieManager\bin\Debug\MongoDB.Driver.Core.xml
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.MovieManager\bin\Debug\MongoDB.Driver.GridFS.xml
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.MovieManager\obj\Debug\MongoDB.Succinctly.MovieManager.csprojResolveAssemblyReference.cache
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.MovieManager\obj\Debug\MongoDB.Succinctly.MovieManager.exe
+C:\Projects\mongodb\Samples\MongoDB.Succinctly.MovieManager\obj\Debug\MongoDB.Succinctly.MovieManager.pdb
